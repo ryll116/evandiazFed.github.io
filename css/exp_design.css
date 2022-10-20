@@ -13,8 +13,11 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
     height: 10vh;
     background-color: #f2f2fc;
+    position: sticky;
+    top: 0;
 }
 
 .content{
